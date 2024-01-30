@@ -418,7 +418,7 @@ body {
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
-.menu #menu-flters {
+/* .menu #menu-flters {
   padding: 0;
   margin: 0 auto 0 auto;
   list-style: none;
@@ -508,7 +508,7 @@ body {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   color: rgba(255, 255, 255, 0.5);
-}
+} */
 
 /*--------------------------------------------------------------
 # Specials
