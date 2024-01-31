@@ -574,11 +574,12 @@ body {
 .book-btn{
   margin-left: 600px;
   width: 160px;
-  margin-top: 40x;
+  margin-top: 30px;
   height: 50px;
   font-size: 20px;
   color: white;
   border: 2px solid #cda45e;
+  
 }
 .book-btn:hover{
   color: #975ecd;
