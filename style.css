@@ -1,6 +1,6 @@
 
 body {
-    font-family: "Open Sans", sans-serif;
+  font-family: 'Rokkitt', serif;
     background: #0c0b09;
     color: #fff;
   }
@@ -107,6 +107,7 @@ body {
     white-space: nowrap;
     transition: 0.3s;
     font-size: 14px;
+    
   }
   
   .navbar a i,
@@ -121,6 +122,9 @@ body {
   .navbar .active:focus,
   .navbar li:hover>a {
     color: #d9ba85;
+    border-bottom: 1px solid #cda45e;
+    transform: scale(1);
+    transition: calc(0.2s);
   }
   
   .navbar .dropdown ul {
@@ -365,11 +369,6 @@ body {
   margin-bottom: 0;
 }
 
-@media (min-width: 1024px) {
-  .about {
-    background-attachment: fixed;
-  }
-}
 
 /* why section */
 .why-us .box {
@@ -417,9 +416,7 @@ body {
 
 
 
-/*--------------------------------------------------------------
-# Specials
---------------------------------------------------------------*/
+/*-- Specials----*/
 
 .specials {
   overflow: hidden;
@@ -557,14 +554,14 @@ body {
   width: 330px;
   background-color: #060605;
   color: gray;
-  height: 60px;
+  height: 45px;
   font-size: 20px;
   padding: 20px;
   
 }
 .message{
   width: 1147px;
-  height: 150px;
+  height: 130px;
   margin-left: 120px;
   background-color: #060605;
   color: gray;
