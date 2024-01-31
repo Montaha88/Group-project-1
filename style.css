@@ -193,7 +193,7 @@ body {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("Restaurantly/assets/img/hero-bg.jpg") top center;
+  background: url("project/image file/img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -270,7 +270,7 @@ body {
 
 /*About*/
 .about {
-  background: url("Restaurantly/assets/img/about-bg.jpg") center center;
+  background: url("project/image file/img/about-bg.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -485,7 +485,7 @@ body {
 
 
 .event {
-  background: url("Restaurantly/assets/img/events-bg.jpg") center center;
+  background: url("project/image file/img/events-bg.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -548,4 +548,41 @@ body {
 
 .event .content p:last-child {
   margin-bottom: 0;
+}
+
+
+
+/* book tabel */
+.input{
+  width: 330px;
+  background-color: #060605;
+  color: gray;
+  height: 60px;
+  font-size: 20px;
+  padding: 20px;
+  
+}
+.message{
+  width: 1147px;
+  height: 150px;
+  margin-left: 120px;
+  background-color: #060605;
+  color: gray;
+  font-size: 20px;
+  padding: 20px;
+}
+.book-btn{
+  margin-left: 700px;
+  width: 160px;
+  margin-top: 40x;
+  height: 50px;
+  font-size: 20px;
+  color: white;
+  border: 2px solid #cda45e;
+}
+.book-btn:hover{
+  color: #975ecd;
+}
+#sec-5{
+  margin-right: 390px;
 }
