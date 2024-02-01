@@ -551,7 +551,7 @@ body {
 
 /* book tabel */
 .input{
-  width: 330px;
+  width: 390px;
   background-color: #060605;
   color: gray;
   height: 45px;
@@ -560,7 +560,7 @@ body {
   
 }
 .message{
-  width: 1147px;
+  width: 1197px;
   height: 130px;
   margin-left: 120px;
   background-color: #060605;
@@ -582,7 +582,7 @@ body {
   color: #975ecd;
 }
 #sec-5{
-  margin-right: 390px;
+  margin-right: 290px;
 }
 
 /*--------------------------------------------------------------
